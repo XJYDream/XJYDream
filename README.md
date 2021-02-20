@@ -5,10 +5,10 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=XJYDream alt=XJYDream /> </p>
 
 <a href="https://github.com/XJYDream">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=XJYDream&show_icons=true&include_all_commits=true" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=XJYDream&show_icons=true&include_all_commits=true&bg_color=transparent" />
 </a>
 <a href="https://github.com/XJYDream">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XJYDream&layout=compact" />
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XJYDream&layout=compact&bg_color=transparent" />
 </a>
 
 <!--Languages and Tools:
